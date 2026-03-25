@@ -128,6 +128,6 @@ Rest (4s) → Fist (4s) → Rest (4s) → Palm (4s)   ×15 sets
 
 ## 라이선스 | License
 
-이 프로젝트는 경북대학교 RIS사업 산학캡스톤디자인 과제로 수행되었습니다.
+이 프로젝트는 국립금오공과대학교 RIS사업 산학연계PBL 과제로 수행되었습니다.
 
 This project was conducted as part of the RIS Industry-Academia Capstone Design program at Kyungpook National University.
